@@ -1,0 +1,4 @@
+#include<iostream>
+int random=rand()%40+60//60~99
+//生成随机数
+srand((unsigned int)time(NULL));
